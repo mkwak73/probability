@@ -52,11 +52,15 @@ for spin in range (1, 1000 + 1):
 	# range [21,38] equals slots [19,36] on the roulette representing black, win $1
 	#
 
+	# green or red
+
 	if ((slot == 1) or (slot == 2) or (slot > 20)):
 
 		winnings = winnings - 1
 		print("Winnings: ", winnings)		
 
+	# black
+	
 	elif ((slot < 21) and (slot > 2)):
 		
 		winnings = winnings +  1
