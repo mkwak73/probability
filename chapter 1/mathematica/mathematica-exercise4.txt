@@ -1,0 +1,4 @@
+ListPlot[{{x1,y1},{x2,y2},…}]
+plots a list of points with specified x and y coordinates.
+
+ListPlot[{{10,.8},{100,0.84},{1000,0.853},{10000,0.8242},{100000,0.82611},{1000000,0.825994}}]

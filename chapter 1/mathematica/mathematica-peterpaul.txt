@@ -1,0 +1,6 @@
+
+data = Import["/home/pi/py3prog/output/winningsdistribution.txt", "Table"]
+dataplot = ListPlot[data, Filling -> Axis]
+
+data = Import["/home/pi/py3prog/output/leaddistribution.txt", "Table"]
+dataplot = ListPlot[data, Filling -> Axis]

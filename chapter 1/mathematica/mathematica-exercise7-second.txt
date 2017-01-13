@@ -1,0 +1,2 @@
+data = Import["/home/pi/py3prog/output/ex7_sec_output.txt", "Table"]
+dataplot = ListPlot[data]
