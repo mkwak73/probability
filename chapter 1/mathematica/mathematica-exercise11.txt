@@ -1,2 +1,2 @@
-data = Import["/home/pi/py3prog/chapter 1/output/totalwinningsprop.txt", "Table"]
+data = Import["/home/pi/py3prog/probability/chapter 1/output/exercise11-40tosses-output.txt", "Table"]
 dataplot = ListPlot[data]

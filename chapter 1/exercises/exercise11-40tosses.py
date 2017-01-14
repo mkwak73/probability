@@ -1,7 +1,7 @@
 #
-# Chapter 1 - Exercise 11 - Modified HTSimulation
+# Chapter 1 - Exercise 11 - Modified HTSimulation - 40 tosses
 # Author: Michael Kwak
-# Date: Januray 10 2017
+# Date: January 10 2017
 #
 
 
@@ -79,7 +79,7 @@ plays = int(input("Enter the number of plays: "))
 # take on values 0, 2, 4, ..., 40
 #
 
-total_winnings_prop_output_file = open('/home/pi/py3prog/chapter 1/output/totalwinningsprop.txt', 'w')
+output_file = open('/home/pi/py3prog/probability/chapter 1/output/exercise11-40tosses-output.txt', 'w')
 
 
 # CORE LOGIC
@@ -202,11 +202,11 @@ total_winnings = 0
 
 while  (0 <= total_winnings <= 40):
 	game_data =  str(total_winnings) + ' ' + str(winnings_dist[total_winnings]/plays) + '\n'
-	total_winnings_prop_output_file.write(game_data)
+	output_file.write(game_data)
 	
 	total_winnings = total_winnings + 2
 
 
 # close output file
 
-total_winnings_prop_output_file.close()
+output_file.close()
