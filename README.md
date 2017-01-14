@@ -12,12 +12,12 @@
 ````
 git status
 git add <filename>
-git add -A
+git add -A (add all files created or changed)
 git commit -m "comment"
 git push
 ````
 
-### pulling repo changes made by someone else
+### pulling repo changes made by someone else:
 ````
 git pull (pull all latest changes made to repo)
 ````
