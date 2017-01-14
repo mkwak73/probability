@@ -20,6 +20,7 @@ git push
 ### pulling repo changes made by someone else
 ````
 git pull (pull all latest changes made to repo)
+````
 
 ### main git commands:
 0. status
