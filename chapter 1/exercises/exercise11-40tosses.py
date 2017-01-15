@@ -149,26 +149,25 @@ for play in range (0, plays):
 
 
 	#
-	# display total winnings
-	#
-
-	print()
-	print("total winnings:", total_winnings)
-
-
-	#
 	# display the fully populated winnings list
 	# 
-
+	
+	print()
 	print("winnings:", winnings)
-
+	
 
 	#
 	# determine the max value in the winnings list and display it
 	#
 
+	print("max winnings:", max(winnings))	
 
-	print("max winnings:", max(winnings))
+
+	#
+	# display total winnings
+	#
+
+	print("total winnings:", total_winnings)
 
 
 	#
