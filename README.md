@@ -1,6 +1,7 @@
 ## Welcome to Michael Kwak's repo of Python scripts for "Introduction to Probability" by Charles M Grinstead and J Laurie Snell
 
 ![image of green python](/images/greenpython.jpg)
+
 Photo taken by M Kwak at the Bronx Zoo
 
 ## Who, what, when, why?
