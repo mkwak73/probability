@@ -1,4 +1,4 @@
-# Welcome to Michael Kwak's repo of Python scripts for "Introduction to Probability" by Charles M Grinstead (Swarthmore) and J Laurie Snell (Dartmouth)
+## Welcome to Michael Kwak's repo of Python scripts for "Introduction to Probability" by Charles M Grinstead and J Laurie Snell
 
 ![image of green python](/images/greenpython.jpg)
 
