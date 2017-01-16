@@ -156,6 +156,6 @@ for k in range (1, n + 1):
 # of the polls simulated n times, printout number of R / D wins
 #
 	
-print()
+print("Final result of polling", voters, "voters", n, "times:")
 print("Rep win:", rep2)
 print("Dem win:", dem2)
