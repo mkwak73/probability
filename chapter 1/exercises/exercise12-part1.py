@@ -104,6 +104,10 @@ for k in range (1, n + 1):
 		
 			print(vote, end="")
 		
+			#
+			# count the number of voter outcomes for R and D
+			#
+			
 			if (vote == "R"):
 				rep1 = rep1 + 1
 		
