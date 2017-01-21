@@ -1,0 +1,3 @@
+data = Import["/home/pi/py3prog/probability/chapter 1/output/exercise14-output.txt", "Table"]
+dataplot = ListLogLinearPlot[data]
+
