@@ -8,7 +8,7 @@ Photo taken by M Kwak at the Bronx Zoo
 
 I'm not a programmer by profession. But I enjoy it as a hobby. In the fall of 2016, I discovered an excellent and freely available pdf textbook of probability theory. This textbook made heavy use of computer simulations both in the chapter text and end-of-chapter exercises. The textbook itself does not contain the programs. There is however, what might be considered a [companion website](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) for the textbook. It is here that programs written in Mathematica, Maple, and TrueBasic may be downloaded. 
 
-Now it appears that the second edition of the textbook was published in 1997, which would make both it and the programs nearly 20 years old now. My goal is to recreate these programs in a modern programming language and make them available on GitHub. 
+Now it appears that the second edition of the textbook was published in 1997, which would make both it and the programs nearly 20 years old now. My goal is to recreate these programs in a modern programming language (Python version 3) and make them available on GitHub. 
  
 ## How?
 
@@ -25,7 +25,7 @@ Each chapter has its own folder. Each folder contains programs that are mentione
 git clone https://github.com/mkwak73/probability.git
 ````
 
-Myself I conduct all of my coding (Python version 3) on a Raspberry Pi.
+I conduct all of my coding on a Raspberry Pi myself.
 
 ## Contact Info
 
