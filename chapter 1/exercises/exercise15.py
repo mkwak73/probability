@@ -39,6 +39,7 @@ def hitmiss():
 		return "M"
 		
 
+
 #
 # define a function that detects a streak of 5 or more hits in a 20 shot game
 # a list 'x' is passed as a parameter
