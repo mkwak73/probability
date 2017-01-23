@@ -25,6 +25,8 @@ Each chapter has its own folder. Each folder contains programs that are mentione
 git clone https://github.com/mkwak73/probability.git
 ````
 
+Myself I conduct all of my coding (Python version 3) on a Raspberry Pi.
+
 ## Contact Info
 
 I may be reached at mkwak73@gmail.com
